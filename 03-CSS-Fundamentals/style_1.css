@@ -1,0 +1,20 @@
+/* Stylesheet for challenge_1.html */
+body {
+  font-family: sans-serif;
+  color: #444;
+}
+
+article {
+  border: 3px solid #000;
+}
+
+h2 {
+  font-size: 20px;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: #f7f7f7;
+}
+
+.price {
+  font-size: 20px;
+}
